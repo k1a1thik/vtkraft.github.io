@@ -20,6 +20,7 @@
 }
 .navbar-light .navbar-nav .nav-link{
   color: #fff;
+  border-right: 1px solid #fff;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{
   color: #23d692;
@@ -128,19 +129,19 @@
     font-size: 18px;
   }
 }
-@media(min-width:0px) and (max-width:500px){
+@media(min-width:0px) and (max-width:710px){
   #product{
     background: rgb(0,32,96);
-    height: 170vh;
+    height: 190vh;
   }
   #product h1{
     font-size: 18px;
     font-family:'Open Sans', sans-serif;
   }
 }
-@media(max-width:1180px){
+@media (min-width:0px) and (max-width:1180px){
   #product{
     background: rgb(0,32,96);
-    height: 350vh;
+    height: 640vh;
   }
 }
