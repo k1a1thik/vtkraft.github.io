@@ -42,8 +42,10 @@
   padding-top: 100px;
 }
 #showcase .showcase-inner img{
-  width: 40%;
-  height: 30%;
+  width: 70%;
+  height: 50%;
+  margin-top: 60px;
+  margin-left: 120px;
 }
 #showcase .showcase-inner hr{
   border-bottom:1px solid #23d692;   
