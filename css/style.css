@@ -129,10 +129,10 @@
     font-size: 18px;
   }
 }
-@media(min-width:0px) and (max-width:710px){
+@media(min-width:0px) and (max-width:768px){
   #product{
     background: rgb(0,32,96);
-    height: 190vh;
+    height: 110vh;
   }
   #product h1{
     font-size: 18px;
@@ -142,6 +142,6 @@
 @media (min-width:0px) and (max-width:1180px){
   #product{
     background: rgb(0,32,96);
-    height: 640vh;
+    height: 720vh;
   }
 }
